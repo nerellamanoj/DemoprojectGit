@@ -1,6 +1,6 @@
 package Gitdemo1;
 
-public class user {
+public class User {
 	
 	private String name;
     private int age;
